@@ -55,10 +55,10 @@ title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
 	<div class="header"></div>
 	<div class="main main-raised">
 		<header>
-			<div class="container" markdown="1">
+			<div class="container">
            			<div class="row">
                				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                   				<div class="post-heading">
+                   				<div class="post-heading" markdown="1">
 							# Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
 								
 							#### Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.</h4>
@@ -70,9 +70,9 @@ title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
 			</div>
 		</header>
 		<article>
-			<div class="container" markdown="1">
+			<div class="container">
 				<div class="row">
-					<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+					<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" markdown="1">
 						<hr>
 						<div class="col-md-12 text-center">
                    			<img src="../assets/img/post1.jpg" alt="Rounded Image" class="img-rounded img-responsive"></img>
