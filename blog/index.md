@@ -1,4 +1,5 @@
 ---
+layout: global
 title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
 ---
 
