@@ -1,4 +1,5 @@
 encoding: utf-8
 title: Cipta Media - Berita
+markdown: kramdown
 baseurl: "/ciptamedia.github.io/"
 permalink: "/:categories/:title.html"
