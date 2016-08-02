@@ -55,10 +55,10 @@ title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
 	<div class="header"></div>
 	<div class="main main-raised">
 		<header>
-			<div class="container">
-           		<div class="row">
-               		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                   		<div class="post-heading">
+			<div class="container" markdown="1">
+           			<div class="row">
+               				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                   				<div class="post-heading">
 							# Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
 								
 							#### Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.</h4>
@@ -70,14 +70,14 @@ title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
 			</div>
 		</header>
 		<article>
-			<div class="container">
+			<div class="container" markdown="1">
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 						<hr>
 						<div class="col-md-12 text-center">
                    			<img src="../assets/img/post1.jpg" alt="Rounded Image" class="img-rounded img-responsive"></img>
                    		</div>
-                   		Salah satu yang sedang menjajaki donor baru adalah Rapotivi. Di masa depan, aplikasi Rapotivi di Android akan dilengkapi dengan fitur baru berupa kampanye online dan offline. Tak hanya itu, Rapotivi nantinya akan tersedia di iOS. Dana untuk program ini sedang diajukan ke lembaga donor Making All Voice Count (MAVC).
+                   				Salah satu yang sedang menjajaki donor baru adalah Rapotivi. Di masa depan, aplikasi Rapotivi di Android akan dilengkapi dengan fitur baru berupa kampanye online dan offline. Tak hanya itu, Rapotivi nantinya akan tersedia di iOS. Dana untuk program ini sedang diajukan ke lembaga donor Making All Voice Count (MAVC).
 						
 						Ada juga Kerjabilitas.com yang diundang oleh Google untuk mengikuti startup bootcamp di Google Mountain View pada Januari 2016 lalu. Saat ini proses mendapatkan hibahnya masih berlangsung. Jika berhasil, Saujana sebagai pengelola Kerjabilitas.com akan menambah fitur yang ada di situs web dan membuat aplikasi Kerjabilitas. Namun, kesulitan dalam menjalankan hal ini adalah mencari ahli IT yang mempunyai latar belakang di bidang aktivisme.
 
