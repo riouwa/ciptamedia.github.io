@@ -1,6 +1,5 @@
 encoding: utf-8
 markdown: kramdown
-title: Project Euler English mirror
-description: "English mirror of Project Euler as a github.io site ready for translation"
-baseurl: "/pe-id/"
+title: Cipta Media Berita
+baseurl: "/ciptamedia.github.io/"
 permalink: "/:categories/:title.html"
