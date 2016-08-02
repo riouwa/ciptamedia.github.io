@@ -8,7 +8,9 @@ title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
 #### Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.
 
 Posted by [Rio Satria](https://www.google.com "Google's Homepage") pada Juli 15, 2016
+
 ---
+
 Salah satu yang sedang menjajaki donor baru adalah Rapotivi. Di masa depan, aplikasi Rapotivi di Android akan dilengkapi dengan fitur baru berupa kampanye online dan offline. Tak hanya itu, Rapotivi nantinya akan tersedia di iOS. Dana untuk program ini sedang diajukan ke lembaga donor Making All Voice Count (MAVC).
 
 Ada juga Kerjabilitas.com yang diundang oleh Google untuk mengikuti startup bootcamp di Google Mountain View pada Januari 2016 lalu. Saat ini proses mendapatkan hibahnya masih berlangsung. Jika berhasil, Saujana sebagai pengelola Kerjabilitas.com akan menambah fitur yang ada di situs web dan membuat aplikasi Kerjabilitas. Namun, kesulitan dalam menjalankan hal ini adalah mencari ahli IT yang mempunyai latar belakang di bidang aktivisme.
