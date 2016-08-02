@@ -1,5 +1,6 @@
 ---
 title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
+layout: wiki
 ---
 
 <html lang="en">
