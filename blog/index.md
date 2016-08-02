@@ -59,11 +59,13 @@ title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
            			<div class="row">
                				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                    				<div class="post-heading">
-							# Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
+                   					<div markdown="1">
+								# Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
 								
-							#### Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.
+								#### Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.
 								
-							Posted by [Rio Satria](https://www.google.com "Google's Homepage") pada Juli 15, 2016
+								Posted by [Rio Satria](https://www.google.com "Google's Homepage") pada Juli 15, 2016
+							</div>
 						</div>
 					</div>
 				</div>
