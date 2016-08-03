@@ -6,6 +6,6 @@ layout: main
 ---
 <ul>
 {% for post in site.posts %}
-<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ page.url }}">{{ post.title }}</a></br>{{ post.excerpt }}</li>
+<li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
