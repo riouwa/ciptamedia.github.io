@@ -1,5 +1,5 @@
 ---
-layout: global
+layout: blog
 title: Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
 ---
 
