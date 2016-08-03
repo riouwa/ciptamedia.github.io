@@ -1,5 +1,5 @@
 ---
-layout: global
+layout: blog
 title: Ilham Cendekia Srimarga - Praktik Open Data Sudah Saatnya Dijalankan
 ---
 
