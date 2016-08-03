@@ -109,12 +109,11 @@
             <h1>Berita</h1>
             <hr>
                 <div>
-                    <a href="Hibah CMS Selesai">
-                        <h2>
-                            Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
-                        </h2>
-                    </a>
-                    <p>Posted by <a href="#">Rio Satria</a> on Juli 15, 2016</p>
+  			<ul class="posts">
+    			{% for post in site.posts %}
+      			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    			{% endfor %}
+			</ul>
                 </div>
                 <hr>
                 <!-- Pager -->
