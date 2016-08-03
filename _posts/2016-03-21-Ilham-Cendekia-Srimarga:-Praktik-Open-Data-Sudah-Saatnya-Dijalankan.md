@@ -1,6 +1,6 @@
 ---
 layout: global
-title: Ilham Cendekia Srimarga: Praktik Open Data Sudah Saatnya Dijalankan
+title: Ilham Cendekia Srimarga - Praktik Open Data Sudah Saatnya Dijalankan
 ---
 
 # Ilham Cendekia Srimarga: Praktik Open Data Sudah Saatnya Dijalankan
