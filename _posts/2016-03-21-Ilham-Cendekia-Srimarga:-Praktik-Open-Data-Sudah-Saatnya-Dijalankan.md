@@ -3,6 +3,10 @@ layout: global
 title: Ilham Cendekia Srimarga: Praktik Open Data Sudah Saatnya Dijalankan
 ---
 
+# Ilham Cendekia Srimarga: Praktik Open Data Sudah Saatnya Dijalankan
+
+---
+
 **Yogyakarta** – Ilham Cendekia Srimarga, salah satu mentor CMS, memberikan penjelasan mengenai Revolusi Data dalam acara CMS Berbagi pada 27 Februari 2016. Menurutnya, data yang ada (data yang dipublikasikan pemerintah) belum memberikan ruang bagi masyarakat untuk berpartisipasi dalam menghimpun suatu data.
 
 Selama ini data yang dipublikasikan adalah data olahan/agregat, seperti data sensus yang ditampilkan dalam bentuk tabel. Data ini pun kerap digunakan pemerintah sebagai pertimbangan dalam mengambil suatu kebijakan. Namun, kebijakan yang diambil terkadang didasarkan pada data yang tidak jelas. Data dari BPS misalnya diperbarui dalam hitungan tahun yang belum tentu sesuai dengan data yang dibutuhkan saat membuat kebijakan.
