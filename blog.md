@@ -14,12 +14,21 @@ layout: main
   <ul class="dropdown-menu" role="menu">
     <li><a href="#berita" data-toggle="tab">Berita</a></li>
     <li><a href="#kajian" data-toggle="tab">Kajian</a></li>
+    <li><a href="#all" data-toggle="tab">Semua</a></li>
   </ul>
 </div>
 
 <div class="content">
   <div class="tab-content">
-    <div class="tab-pane active" id="berita">
+    <div class="tab-pane active" id="all">
+      <ul>
+        {% for post in site.posts %}
+          <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          {{ post.excerpt }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="tab-pane" id="berita">
       <ul>
         {% for post in site.categories.Berita %}
           <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
