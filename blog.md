@@ -20,7 +20,7 @@ layout: main
 	</li>
 </ul>
 
-<div id="berita">
+<div class="tab-pane active" id="berita">
 <ul>
   {% for post in site.categories.Berita %}
     <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
