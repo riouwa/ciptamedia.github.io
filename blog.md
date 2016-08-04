@@ -23,7 +23,7 @@ layout: main
     <div class="tab-pane active" id="all">
       <ul>
         {% for post in site.posts %}
-          <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <li><h4><span><b>{{ post.date | date_to_string }}</b></span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
           {{ post.excerpt }}</li>
         {% endfor %}
       </ul>
@@ -31,7 +31,7 @@ layout: main
     <div class="tab-pane" id="berita">
       <ul>
         {% for post in site.categories.Berita %}
-          <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <li><h4><span><b>{{ post.date | date_to_string }}</b></span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
           {{ post.excerpt }}</li>
         {% endfor %}
       </ul>
@@ -39,7 +39,7 @@ layout: main
     <div class="tab-pane" id="kajian">
       <ul>
         {% for post in site.categories.Kajian %}
-          <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <li><h4><span><b>{{ post.date | date_to_string }}</b></span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
           {{ post.excerpt }}</li>
         {% endfor %}
       </ul>
