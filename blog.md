@@ -7,31 +7,27 @@ layout: main
 
 <ul class="nav nav-pills nav-pills-danger" role="tablist">
 	<li>
-		<a href="#dashboard" role="tab" data-toggle="tab">
+		<a href="#berita" role="tab" data-toggle="tab">
 			<i class="material-icons">dashboard</i>
-			Dashboard
+			Berita
 		</a>
 	</li>
 	<li class="active">
-		<a href="#schedule" role="tab" data-toggle="tab">
+		<a href="#kajian" role="tab" data-toggle="tab">
 			<i class="material-icons">schedule</i>
-			Schedule
-		</a>
-	</li>
-	<li>
-		<a href="#tasks" role="tab" data-toggle="tab">
-			<i class="material-icons">list</i>
-			Tasks
+			Kajian
 		</a>
 	</li>
 </ul>
 
+<div id="berita">
 <ul>
   {% for post in site.categories.Berita %}
     <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     {{ post.excerpt }}</li>
   {% endfor %}
 </ul>
+</div>
 
 <ul>
   {% for post in site.categories.Kajian %}
