@@ -1,4 +1,4 @@
 encoding: utf-8
 markdown: kramdown
 baseurl: /ciptamedia.github.io
-permalink: /:category/:title.html
+permalink: /:categories/:title.html
