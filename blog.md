@@ -27,7 +27,7 @@ layout: main
         {% endfor %}
       </ul>
     </div>
-    <div class="tab-pane active" id="berita">
+    <div class="tab-pane" id="kajian">
       <ul>
         {% for post in site.categories.Kajian %}
           <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
