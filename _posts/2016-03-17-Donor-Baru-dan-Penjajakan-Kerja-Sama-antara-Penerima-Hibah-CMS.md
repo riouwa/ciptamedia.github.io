@@ -1,13 +1,10 @@
 ---
 layout: blog
 title: Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
+category: Berita
 ---
 
-# Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
-
-#### Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.
-
----
+Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.
 
 Salah satu yang sedang menjajaki donor baru adalah Rapotivi. Di masa depan, aplikasi Rapotivi di Android akan dilengkapi dengan fitur baru berupa kampanye online dan offline. Tak hanya itu, Rapotivi nantinya akan tersedia di iOS. Dana untuk program ini sedang diajukan ke lembaga donor Making All Voice Count (MAVC).
 
