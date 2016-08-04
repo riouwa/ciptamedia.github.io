@@ -6,7 +6,7 @@ layout: main
 ---
 
 <div class="btn-group">
-  <button type="button" class="btn btn-danger">Kategori
+  <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Kategori
     <span class="caret"></span>
     <span class="sr-only">Toggle Dropdown</span>
   </button>
