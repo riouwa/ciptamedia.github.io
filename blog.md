@@ -12,8 +12,8 @@ layout: main
     <span class="sr-only">Toggle Dropdown</span>
   </button>
   <ul class="dropdown-menu" role="menu">
-    <li><a href="#berita" id="filterProblems-all">Berita</a></li>
-    <li><a href="#kajian" id="filterProblems-solved">Kajian</a></li>
+    <li><a href="#berita" data-toggle="tab">Berita</a></li>
+    <li><a href="#kajian" data-toggle="tab">Kajian</a></li>
   </ul>
 </div>
 
