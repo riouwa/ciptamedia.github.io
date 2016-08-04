@@ -2,7 +2,7 @@
 layout: main
 ---
 
-## Arsip Berita
+## Arsip Berita_test
 ---
 <ul>
 {% for post in site.posts %}
