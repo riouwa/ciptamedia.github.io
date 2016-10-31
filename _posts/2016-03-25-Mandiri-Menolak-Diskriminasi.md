@@ -1,7 +1,9 @@
 ---
-layout: blog
 title: Mandiri Menolak Diskriminasi
-category: Kajian
+date: 2016-03-25 00:00:00 Z
+categories:
+- Kajian
+layout: blog
 ---
 
 Kepala Pusat Kajian Disabilitas FISIP UI, Irwanto mengatakan, hingga kini pendataan penyandang disabilitas di Indonesia masih bermasalah. Hal ini terlihat dengan tidak adanya sinkronisasi antara data dari Badan Pusat Statistik (BPS) yang sudah berbasis Internasional dengan dana kementerian/lembaga terkait masalah sosial seperti Departemen Kesehatan, Departemen Ketenagakerjaan, dan Departemen Sosial.

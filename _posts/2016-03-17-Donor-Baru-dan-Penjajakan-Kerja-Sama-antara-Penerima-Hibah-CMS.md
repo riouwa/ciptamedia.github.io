@@ -1,7 +1,9 @@
 ---
-layout: blog
 title: Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
-category: Berita
+date: 2016-03-17 00:00:00 Z
+categories:
+- Berita
+layout: blog
 ---
 
 Hibah CMS telah berakhir sejak Desember 2015. Penerima hibah pun mencoba mencari donor baru untuk meneruskan programnya. Ada pula yang menjajaki kemungkinan kolaborasi dengan sesama penerima hibah.
